@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.ArrayGraph {
+  outline: medium;
+  border: 10px;
+}
+
+.ArrayDetails {
+  background-color: aqua;
+  padding: 30px;
+  margin: 10px;
+}
+
+.Btn {
+  padding: 5px;
+  margin: 10px;
+}
+
+.activeBtn {
+  color: red;
+  padding: 5px;
+  margin: 10px;
+}
